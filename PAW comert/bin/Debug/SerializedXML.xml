@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<ArrayOfDesfaceri xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Desfaceri>
+    <numeProdus>Coca Cola</numeProdus>
+    <cantitate>15</cantitate>
+    <pret>6</pret>
+    <raion>
+      <tip>Mancare</tip>
+    </raion>
+    <magazin>
+      <nume>Lidl</nume>
+    </magazin>
+  </Desfaceri>
+  <Desfaceri>
+    <numeProdus>Tricou</numeProdus>
+    <cantitate>120</cantitate>
+    <pret>120</pret>
+    <raion>
+      <tip>Articole_de_imbracaminte</tip>
+    </raion>
+    <magazin>
+      <nume>Auchan</nume>
+    </magazin>
+  </Desfaceri>
+  <Desfaceri>
+    <numeProdus>Smart TV Samsung</numeProdus>
+    <cantitate>10</cantitate>
+    <pret>2800</pret>
+    <raion>
+      <tip>TV_Audio_Home_cinema</tip>
+    </raion>
+    <magazin>
+      <nume>Altul</nume>
+    </magazin>
+  </Desfaceri>
+  <Desfaceri>
+    <numeProdus>Carte de povesti pentru copii</numeProdus>
+    <cantitate>1500</cantitate>
+    <pret>12</pret>
+    <raion>
+      <tip>Carti_papetarie_educatie</tip>
+    </raion>
+    <magazin>
+      <nume>Cora</nume>
+    </magazin>
+  </Desfaceri>
+  <Desfaceri>
+    <numeProdus>Grebla</numeProdus>
+    <cantitate>240</cantitate>
+    <pret>21</pret>
+    <raion>
+      <tip>Casa_gradina_petshop</tip>
+    </raion>
+    <magazin>
+      <nume>Carrefour</nume>
+    </magazin>
+  </Desfaceri>
+</ArrayOfDesfaceri>
